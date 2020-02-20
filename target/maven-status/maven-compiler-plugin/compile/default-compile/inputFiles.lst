@@ -1,6 +1,9 @@
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\commands\FrontCommand.java
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\practicaas\sesionesservlet\SessionFromView.java
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\commands\UnknownCommand.java
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\practicaas\sesionesservlet\FrontController.java
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\practicaas\sesionesservlet\resources\JavaEE8Resource.java
-C:\Users\yonay\Documents\NetBeansProjects\SesionesServlet\src\main\java\practicaas\sesionesservlet\JAXRSConfiguration.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\commands\FrontCommand.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\commands\ListCommand.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\practicaas\sesionesservlet\SessionFromView.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\practicaas\sesionesservlet\JAXRSConfiguration.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\practicaas\sesionesservlet\resources\JavaEE8Resource.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\practicaas\sesionesservlet\View.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\commands\UnknownCommand.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\practicaas\sesionesservlet\FrontController.java
+C:\Users\yonay\Documents\NetBeansProjects\ServletSession\src\main\java\commands\HelloWorldCommand.java

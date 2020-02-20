@@ -47,7 +47,7 @@ public class SessionFromView extends HttpServlet {
             out.println("<h1>Servlet SessionFromView at " + request.getContextPath() + "</h1>");
             out.println("<form action=\"FrontController\">\n" +
                 "<input type=\"hidden\" name=\"command\" value=\"ListCommand\">" +
-                "<input type=\"text\" name=\"cosa\">\n" +
+                "<input type=\"text\" name=\"lista\">\n" +
                 "<input type=\"submit\">\n" +
                 "</form> ");
              List<String> lista = (List<String>) session.getAttribute("lista");
@@ -55,12 +55,13 @@ public class SessionFromView extends HttpServlet {
                 if(!lista.isEmpty()) {
                     out.println("<h1>"+"Lista de cosas"+"</h1>");
                     for (String cosa : lista) {
-                        out.println("<div>"+cosa+"</div>");
+                        out.println("<div>"+lista+"</div>");
                     }
                 }
             }
             out.println("</body>");
             out.println("</html>");
+            
         }
     }
 
